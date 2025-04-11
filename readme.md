@@ -50,3 +50,27 @@ This is a static landing page for Omnifood, showcasing the key benefits of the f
    ```bash
    git clone https://github.com/Ahmad131554/omnifood-restaurant.git
    ```
+
+2. **Navigate to the project folder**
+
+   ```bash
+   git clone https://github.com/Ahmad131554/omnifood-restaurant.git
+   ```
+
+3. **Open the index.html file** in your preferred browser to view the landing page.
+
+   You can open it locally by simply double-clicking the index.html file, or you can run it using a simple local server.
+
+---
+
+## Usage Instructions
+
+- **View the landing page:** The landing page can be accessed by opening the index.html file in any modern browser.
+- **Make edits:** You can make changes to the design by editing the style.css file.
+- **Add new features:** You can extend this landing page by adding new sections or integrating it into a dynamic web application.
+
+---
+
+## Licese
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
