@@ -7,11 +7,11 @@ Omnifood is an AI-powered food subscription service that delivers healthy, perso
 ## Table of Contents
 
 1. [Project Description](#project-description)
-2. [Features](#features)
-3. [Technologies Used](#technologies-used)
-4. [Installation Instructions](#installation-instructions)
-5. [Usage Instructions](#usage-instructions)
-6. [Contributing](#contributing)
+2. [Project Preview](#Project-preview)
+3. [Features](#features)
+4. [Technologies Used](#technologies-used)
+5. [Installation Instructions](#installation-instructions)
+6. [Usage Instructions](#usage-instructions)
 7. [License](#license)
 
 ---
@@ -21,6 +21,10 @@ Omnifood is an AI-powered food subscription service that delivers healthy, perso
 This is a static landing page for Omnifood, showcasing the key benefits of the food subscription service, including the personalized meal plans, meal delivery service, and pricing options. The page is designed using HTML and CSS with a focus on a clean, user-friendly layout and responsive design.
 
 ---
+
+## Project Preview
+
+You can also view a live demo of the project at: [Omnifood by Ahmad](https://omnifood-by-ahmad.netlify.app/)
 
 ## Features
 
@@ -71,6 +75,6 @@ This is a static landing page for Omnifood, showcasing the key benefits of the f
 
 ---
 
-## Licese
+## License
 
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
