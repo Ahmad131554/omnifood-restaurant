@@ -58,7 +58,7 @@ You can also view a live demo of the project at: [Omnifood by Ahmad](https://omn
 2. **Navigate to the project folder**
 
    ```bash
-   git clone https://github.com/Ahmad131554/omnifood-restaurant.git
+   cd omnifood-restaurant
    ```
 
 3. **Open the index.html file** in your preferred browser to view the landing page.
